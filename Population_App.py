@@ -311,7 +311,7 @@ else:
 st.markdown(
     """
     <footer style="text-align: center; color: #c2185b;">
-        <p>Created by <strong style="color:#AA336A;">Shkurte Mustafa</strong>. Data Source: [Add Data Source Here]</p>
+        <p>Created by <strong style="color:#AA336A;">Shkurte Mustafa</strong></p>
         <p>Contact: shkurtemustafa2018@gmail.com</p>
     </footer>
     """,
